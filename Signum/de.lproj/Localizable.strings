@@ -1,0 +1,13 @@
+/* Signum — Deutsche Übersetzung (Stub) */
+
+"Stamp" = "Stempeln";
+"Verify" = "Prüfen";
+"History" = "Verlauf";
+"Stamp All" = "Alle stempeln";
+"Choose Files…" = "Dateien auswählen…";
+"Drag & drop files to timestamp" = "Dateien zum Zeitstempeln hierher ziehen";
+"Drop a file to verify its timestamp" = "Datei zum Prüfen des Zeitstempels hierher ziehen";
+"Valid" = "Gültig";
+"Invalid" = "Ungültig";
+"Clear History" = "Verlauf löschen";
+"About Signum" = "Über Signum";

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" initialViewController="XfG-lQ-9wD">
+    <dependencies>
+        <deployment identifier="macosx"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="21507"/>
+    </dependencies>
+    <scenes>
+        <!--Action View Controller-->
+        <scene sceneID="cwp-4Q-3Aj">
+            <objects>
+                <viewController id="XfG-lQ-9wD" customClass="ActionViewController" customModule="SignumQuickAction" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" id="mR7-2S-8Yz">
+                        <rect key="frame" x="0.0" y="0.0" width="380" height="160"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    </view>
+                </viewController>
+                <customObject id="rzp-4S-9aa" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="140" y="140"/>
+        </scene>
+    </scenes>
+</document>

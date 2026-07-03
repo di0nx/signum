@@ -1,0 +1,8 @@
+/* SignumKit — Deutsche Übersetzung (Stub) */
+
+"Sidecar (.tsr)" = "Sidecar (.tsr)";
+"Embed in file" = "In Datei einbetten";
+".tsr sidecar" = ".tsr-Sidecar";
+"Embedded" = "Eingebettet";
+"⚠️ File has been modified since timestamp was created" = "⚠️ Die Datei wurde seit der Zeitstempelung geändert";
+"Timestamp valid but TSA not in system trust store" = "Zeitstempel gültig, aber TSA nicht im System-Vertrauensspeicher";
