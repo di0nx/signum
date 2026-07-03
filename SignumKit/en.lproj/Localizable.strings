@@ -1,0 +1,8 @@
+/* SignumKit — English base strings */
+
+"Sidecar (.tsr)" = "Sidecar (.tsr)";
+"Embed in file" = "Embed in file";
+".tsr sidecar" = ".tsr sidecar";
+"Embedded" = "Embedded";
+"⚠️ File has been modified since timestamp was created" = "⚠️ File has been modified since timestamp was created";
+"Timestamp valid but TSA not in system trust store" = "Timestamp valid but TSA not in system trust store";

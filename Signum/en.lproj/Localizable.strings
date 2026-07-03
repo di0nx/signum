@@ -1,0 +1,13 @@
+/* Signum — English base strings */
+
+"Stamp" = "Stamp";
+"Verify" = "Verify";
+"History" = "History";
+"Stamp All" = "Stamp All";
+"Choose Files…" = "Choose Files…";
+"Drag & drop files to timestamp" = "Drag & drop files to timestamp";
+"Drop a file to verify its timestamp" = "Drop a file to verify its timestamp";
+"Valid" = "Valid";
+"Invalid" = "Invalid";
+"Clear History" = "Clear History";
+"About Signum" = "About Signum";
